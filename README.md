@@ -35,25 +35,25 @@ These errors are not very important and are handled by the internal logic of `Mo
 <h2><center>Drug_Bank_3674</center></h2>
 <table><tr>
 <td> <img src="3d_equivalence_testing_final/netx_figs/arom_kekule_diff/DrugBank_3674_DrugBank_3674_(117).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/arom_kekule_diff/Drug_Bank_3674.PNG" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/arom_kekule_diff/Drug_Bank_3674.PNG" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 
 <h2><center>Drug_Bank_4047</center></h2>
 <table><tr>
-<td> <img src="netx_figs/arom_kekule_diff/DrugBank_4047_DrugBank_4047_(162).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/arom_kekule_diff/Drug_Bank_4047.PNG" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/arom_kekule_diff/DrugBank_4047_DrugBank_4047_(162).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/arom_kekule_diff/Drug_Bank_4047.PNG" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 
 <h2><center>Drug_Bank_4247</center></h2>
 <table><tr>
-<td> <img src="netx_figs/arom_kekule_diff/DrugBank_4247_DrugBank_4247_(197).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/arom_kekule_diff/Drug_Bank_4247.PNG" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/arom_kekule_diff/DrugBank_4247_DrugBank_4247_(197).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/arom_kekule_diff/Drug_Bank_4247.PNG" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 
 <h2><center>Drug_Bank_6145</center></h2>
 <table><tr>
-<td> <img src="netx_figs/arom_kekule_diff/DrugBank_6145_DrugBank_6145_(122).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/arom_kekule_diff/Drug_Bank_6145.PNG" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/arom_kekule_diff/DrugBank_6145_DrugBank_6145_(122).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/arom_kekule_diff/Drug_Bank_6145.PNG" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 
 In all of these cases, RDKit appears to adjust the kekule structures, while OpenEye says the most "faithful" to the original structure.
@@ -65,33 +65,33 @@ information about formal charge. RDKit does nothing to these molecules, while op
 during the Molecule creation step. Here are a few indicative test cases. 
 <h2><center>DrugBank_1564</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_1564_DrugBank_1564_(184).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_1564.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_1564_DrugBank_1564_(184).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_1564.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 <h2><center>DrugBank_1700</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_1700_DrugBank_1700_(211).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_1700.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_1700_DrugBank_1700_(211).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_1700.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 <h2><center>DrugBank_2148</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_2148_DrugBank_2148_(297).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_2148.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_2148_DrugBank_2148_(297).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_2148.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 <h2><center>DrugBank_2210</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_2210_DrugBank_2210_(305).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_2210.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_2210_DrugBank_2210_(305).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_2210.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 <h2><center>DrugBank_2642</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_2642_DrugBank_2642_(356).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_2642.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_2642_DrugBank_2642_(356).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_2642.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 <h2><center>DrugBank_5418</center></h2>
 <table><tr>
-<td> <img src="netx_figs/proton_diff/DrugBank_5418_DrugBank_5418_(11).png" alt="Drawing" style="width: 550px;"/> </td>
-<td> <img src="pymol_figs/proton_diff/DrugBank_5418.png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/netx_figs/proton_diff/DrugBank_5418_DrugBank_5418_(11).png" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="3d_equivalence_testing_final/pymol_figs/proton_diff/DrugBank_5418.png" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
 
 ## Stereo Differences 
@@ -101,13 +101,13 @@ toolkit upon gathering info form the file. To determine which toolkit appear to 
 I included the following 4 cases with the lone pair oriented behind the 3 pyramidal bonds. 
 
 <h2>Drug_Bank_1971 (oe->R, rd->S, human->R)</h2> 
-<img src="pymol_figs/stereo_diff/DrugBank_1971.png" alt="Drawing" style="width: 700px;"/>
+<img src="3d_equivalence_testing_final/pymol_figs/stereo_diff/DrugBank_1971.png" alt="Drawing" style="width: 700px;"/>
 <h2>Drug_Bank_2140 (oe->R, rd->S, human->R)</h2> 
-<img src="pymol_figs/stereo_diff/DrugBank_2140.png" alt="Drawing" style="width: 700px;"/>
+<img src="3d_equivalence_testing_final/pymol_figs/stereo_diff/DrugBank_2140.png" alt="Drawing" style="width: 700px;"/>
 <h2>Drug_Bank_2563 (oe->R, rd->S, human->R)</h2> 
-<img src="pymol_figs/stereo_diff/DrugBank_2563.png" alt="Drawing" style="width: 700px;"/>
+<img src="3d_equivalence_testing_final/pymol_figs/stereo_diff/DrugBank_2563.png" alt="Drawing" style="width: 700px;"/>
 <h2>Drug_Bank_4032 (oe->S, rd->R, human->S)</h2> 
-<img src="pymol_figs/stereo_diff/DrugBank_4032.png" alt="Drawing" style="width: 700px;"/>
+<img src="3d_equivalence_testing_final/pymol_figs/stereo_diff/DrugBank_4032.png" alt="Drawing" style="width: 700px;"/>
 
 
 In conclusion, openeye agrees with what a human would assign to the stereochemistry, assuming the lone pair is the least significant group.
